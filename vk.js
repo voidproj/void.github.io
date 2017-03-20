@@ -1,4 +1,4 @@
-VK.init( function(){
+VK.init(window.onload = function(){
 	var user_id = null;
 	var app_id = 5935661;
 	var a = new VKAdman();
